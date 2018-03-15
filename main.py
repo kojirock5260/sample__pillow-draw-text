@@ -1,3 +1,4 @@
+# coding: utf-8
 import sys
 from app import App
 from compositor.text_compositor import TextCompositor
